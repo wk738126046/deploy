@@ -1,0 +1,1056 @@
+Start training with (gpu(0)) from pretrained model /home/wk/wk_ws/myTest/myRethinkOB/model/vgg16_reduced
+Start training with (gpu(0)) from pretrained model /home/wk/wk_ws/myTest/myRethinkOB/model/vgg16_reduced
+Experimental: start training from scratch with (gpu(0))
+Experimental: start training from scratch with (gpu(0))
+Epoch[0] Batch [20]	Speed: 6.48 samples/sec	CrossEntropy=3.872829	SmoothL1=0.803090
+Epoch[0] Batch [40]	Speed: 6.30 samples/sec	CrossEntropy=3.374167	SmoothL1=0.781471
+Epoch[0] Batch [60]	Speed: 6.26 samples/sec	CrossEntropy=3.468620	SmoothL1=0.738895
+Epoch[0] Batch [80]	Speed: 6.17 samples/sec	CrossEntropy=3.465971	SmoothL1=0.783743
+Epoch[0] Batch [100]	Speed: 6.33 samples/sec	CrossEntropy=3.361055	SmoothL1=0.748690
+Epoch[0] Batch [120]	Speed: 6.44 samples/sec	CrossEntropy=3.460239	SmoothL1=0.786412
+Epoch[0] Batch [140]	Speed: 6.29 samples/sec	CrossEntropy=3.539920	SmoothL1=0.735642
+Epoch[0] Batch [160]	Speed: 6.28 samples/sec	CrossEntropy=3.434378	SmoothL1=0.752936
+Epoch[0] Batch [180]	Speed: 6.30 samples/sec	CrossEntropy=3.212326	SmoothL1=0.707998
+Epoch[0] Batch [200]	Speed: 6.09 samples/sec	CrossEntropy=3.257311	SmoothL1=0.716280
+Epoch[0] Batch [220]	Speed: 6.21 samples/sec	CrossEntropy=3.198874	SmoothL1=0.735071
+Epoch[0] Batch [240]	Speed: 6.35 samples/sec	CrossEntropy=3.063853	SmoothL1=0.744102
+Epoch[0] Batch [260]	Speed: 6.40 samples/sec	CrossEntropy=3.016985	SmoothL1=0.727696
+Epoch[0] Batch [280]	Speed: 6.41 samples/sec	CrossEntropy=2.753786	SmoothL1=0.714763
+Epoch[0] Batch [300]	Speed: 6.16 samples/sec	CrossEntropy=2.871384	SmoothL1=0.721454
+Epoch[0] Batch [320]	Speed: 6.34 samples/sec	CrossEntropy=2.620159	SmoothL1=0.709810
+Epoch[0] Batch [340]	Speed: 6.41 samples/sec	CrossEntropy=2.674773	SmoothL1=0.759612
+Epoch[0] Batch [360]	Speed: 6.28 samples/sec	CrossEntropy=2.252045	SmoothL1=0.783174
+Epoch[0] Batch [380]	Speed: 6.22 samples/sec	CrossEntropy=2.130718	SmoothL1=0.714888
+Epoch[0] Batch [400]	Speed: 6.34 samples/sec	CrossEntropy=1.778280	SmoothL1=0.699537
+Epoch[0] Batch [420]	Speed: 6.27 samples/sec	CrossEntropy=1.713908	SmoothL1=0.728784
+Epoch[0] Batch [440]	Speed: 6.27 samples/sec	CrossEntropy=1.802148	SmoothL1=0.706749
+Epoch[0] Batch [460]	Speed: 6.40 samples/sec	CrossEntropy=1.892680	SmoothL1=0.689296
+Epoch[0] Batch [480]	Speed: 6.22 samples/sec	CrossEntropy=1.649936	SmoothL1=0.748912
+Epoch[0] Batch [500]	Speed: 5.95 samples/sec	CrossEntropy=1.402065	SmoothL1=0.692644
+Epoch[0] Batch [520]	Speed: 6.15 samples/sec	CrossEntropy=1.583172	SmoothL1=0.684006
+Epoch[0] Batch [540]	Speed: 6.30 samples/sec	CrossEntropy=1.565446	SmoothL1=0.716845
+Epoch[0] Batch [560]	Speed: 6.42 samples/sec	CrossEntropy=1.668141	SmoothL1=0.718307
+Epoch[0] Batch [580]	Speed: 6.30 samples/sec	CrossEntropy=1.680717	SmoothL1=0.701782
+Epoch[0] Batch [600]	Speed: 6.26 samples/sec	CrossEntropy=1.455504	SmoothL1=0.700649
+Epoch[0] Batch [620]	Speed: 6.41 samples/sec	CrossEntropy=1.448634	SmoothL1=0.689582
+Epoch[0] Batch [640]	Speed: 6.22 samples/sec	CrossEntropy=1.524656	SmoothL1=0.668952
+Start training with (gpu(0)) from pretrained model ./model/vgg16_reduced/vgg16_reduced
+Freezed parameters: [conv1_1_weight,conv1_1_bias,conv1_2_weight,conv1_2_bias,conv2_1_weight,conv2_1_bias,conv2_2_weight,conv2_2_bias]
+Epoch[0] Batch [20]	Speed: 7.80 samples/sec	CrossEntropy=3.723237	SmoothL1=0.743980
+Epoch[0] Batch [40]	Speed: 7.76 samples/sec	CrossEntropy=3.187908	SmoothL1=0.760720
+Epoch[0] Batch [60]	Speed: 7.57 samples/sec	CrossEntropy=3.008288	SmoothL1=0.738665
+Epoch[0] Batch [80]	Speed: 7.40 samples/sec	CrossEntropy=2.687152	SmoothL1=0.744756
+Epoch[0] Batch [100]	Speed: 7.65 samples/sec	CrossEntropy=2.149188	SmoothL1=0.790965
+Epoch[0] Batch [120]	Speed: 8.20 samples/sec	CrossEntropy=1.903263	SmoothL1=0.804147
+Epoch[0] Batch [140]	Speed: 8.21 samples/sec	CrossEntropy=1.520644	SmoothL1=0.740292
+Start training with (gpu(0)) from pretrained model ./model/vgg16_reduced/vgg16_reduced
+Start training with (gpu(0)) from pretrained model ./model/vgg16_reduced/vgg16_reduced
+Freezed parameters: [conv1_1_weight,conv1_1_bias,conv1_2_weight,conv1_2_bias,conv2_1_weight,conv2_1_bias,conv2_2_weight,conv2_2_bias]
+Epoch[0] Batch [20]	Speed: 8.78 samples/sec	CrossEntropy=3.768673	SmoothL1=0.742406
+Epoch[0] Batch [40]	Speed: 8.72 samples/sec	CrossEntropy=3.042397	SmoothL1=0.736831
+Start training with (gpu(0)) from pretrained model ./model/vgg16_reduced/vgg16_reduced
+Freezed parameters: [conv1_1_weight,conv1_1_bias,conv1_2_weight,conv1_2_bias,conv2_1_weight,conv2_1_bias,conv2_2_weight,conv2_2_bias]
+Epoch[0] Batch [20]	Speed: 9.50 samples/sec	CrossEntropy=3.797696	SmoothL1=0.744391
+Epoch[0] Batch [40]	Speed: 9.41 samples/sec	CrossEntropy=3.057929	SmoothL1=0.742157
+Epoch[0] Batch [60]	Speed: 9.32 samples/sec	CrossEntropy=2.701911	SmoothL1=0.714348
+Epoch[0] Batch [80]	Speed: 9.40 samples/sec	CrossEntropy=2.208869	SmoothL1=0.698637
+Epoch[0] Batch [100]	Speed: 9.44 samples/sec	CrossEntropy=1.762757	SmoothL1=0.706813
+Epoch[0] Batch [120]	Speed: 9.50 samples/sec	CrossEntropy=1.442884	SmoothL1=0.698889
+Epoch[0] Batch [140]	Speed: 9.44 samples/sec	CrossEntropy=1.357412	SmoothL1=0.684265
+Epoch[0] Batch [160]	Speed: 9.44 samples/sec	CrossEntropy=1.284668	SmoothL1=0.668559
+Epoch[0] Batch [180]	Speed: 9.42 samples/sec	CrossEntropy=1.275941	SmoothL1=0.663875
+Epoch[0] Batch [200]	Speed: 9.43 samples/sec	CrossEntropy=1.255731	SmoothL1=0.651993
+Epoch[0] Batch [220]	Speed: 9.42 samples/sec	CrossEntropy=1.254451	SmoothL1=0.650006
+Epoch[0] Batch [240]	Speed: 9.32 samples/sec	CrossEntropy=1.223384	SmoothL1=0.618691
+Epoch[0] Batch [260]	Speed: 9.36 samples/sec	CrossEntropy=1.241981	SmoothL1=0.629906
+Epoch[0] Batch [280]	Speed: 9.36 samples/sec	CrossEntropy=1.228224	SmoothL1=0.603175
+Epoch[0] Batch [300]	Speed: 9.40 samples/sec	CrossEntropy=1.222216	SmoothL1=0.613183
+Epoch[0] Train-CrossEntropy=1.218684
+Epoch[0] Train-SmoothL1=0.602558
+Epoch[0] Time cost=547.043
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0001.params"
+Epoch[0] Validation-aeroplane=0.000033
+Epoch[0] Validation-bicycle=0.000000
+Epoch[0] Validation-bird=0.000000
+Epoch[0] Validation-boat=0.000000
+Epoch[0] Validation-bottle=0.000000
+Epoch[0] Validation-bus=0.000000
+Epoch[0] Validation-car=0.041930
+Epoch[0] Validation-cat=0.000000
+Epoch[0] Validation-chair=0.000289
+Epoch[0] Validation-cow=0.000000
+Epoch[0] Validation-diningtable=0.000000
+Epoch[0] Validation-dog=0.000000
+Epoch[0] Validation-horse=0.000000
+Epoch[0] Validation-motorbike=0.000000
+Epoch[0] Validation-person=0.048027
+Epoch[0] Validation-pottedplant=0.000000
+Epoch[0] Validation-sheep=0.090909
+Epoch[0] Validation-sofa=0.000000
+Epoch[0] Validation-train=0.000000
+Epoch[0] Validation-tvmonitor=0.000000
+Epoch[0] Validation-mAP=0.009059
+Epoch[1] Batch [20]	Speed: 9.33 samples/sec	CrossEntropy=1.200472	SmoothL1=0.576152
+Epoch[1] Batch [40]	Speed: 9.37 samples/sec	CrossEntropy=1.224201	SmoothL1=0.593266
+Epoch[1] Batch [60]	Speed: 9.34 samples/sec	CrossEntropy=1.217646	SmoothL1=0.581525
+Epoch[1] Batch [80]	Speed: 9.39 samples/sec	CrossEntropy=1.240064	SmoothL1=0.578386
+Epoch[1] Batch [100]	Speed: 9.36 samples/sec	CrossEntropy=1.212218	SmoothL1=0.575126
+Epoch[1] Batch [120]	Speed: 9.26 samples/sec	CrossEntropy=1.215085	SmoothL1=0.571974
+Epoch[1] Batch [140]	Speed: 9.32 samples/sec	CrossEntropy=1.177770	SmoothL1=0.559929
+Epoch[1] Batch [160]	Speed: 9.27 samples/sec	CrossEntropy=1.200300	SmoothL1=0.584331
+Epoch[1] Batch [180]	Speed: 9.35 samples/sec	CrossEntropy=1.199947	SmoothL1=0.547633
+Epoch[1] Batch [200]	Speed: 9.33 samples/sec	CrossEntropy=1.188537	SmoothL1=0.564327
+Epoch[1] Batch [220]	Speed: 9.29 samples/sec	CrossEntropy=1.170216	SmoothL1=0.552287
+Epoch[1] Batch [240]	Speed: 9.32 samples/sec	CrossEntropy=1.188725	SmoothL1=0.538697
+Epoch[1] Batch [260]	Speed: 9.32 samples/sec	CrossEntropy=1.190932	SmoothL1=0.531852
+Epoch[1] Batch [280]	Speed: 9.35 samples/sec	CrossEntropy=1.171731	SmoothL1=0.521130
+Epoch[1] Batch [300]	Speed: 9.40 samples/sec	CrossEntropy=1.161909	SmoothL1=0.518276
+Epoch[1] Train-CrossEntropy=1.170392
+Epoch[1] Train-SmoothL1=0.564456
+Epoch[1] Time cost=535.730
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0002.params"
+Epoch[1] Validation-aeroplane=0.012987
+Epoch[1] Validation-bicycle=0.007576
+Epoch[1] Validation-bird=0.000000
+Epoch[1] Validation-boat=0.000000
+Epoch[1] Validation-bottle=0.000000
+Epoch[1] Validation-bus=0.000000
+Epoch[1] Validation-car=0.143839
+Epoch[1] Validation-cat=0.000000
+Epoch[1] Validation-chair=0.000580
+Epoch[1] Validation-cow=0.011364
+Epoch[1] Validation-diningtable=0.000000
+Epoch[1] Validation-dog=0.004545
+Epoch[1] Validation-horse=0.000000
+Epoch[1] Validation-motorbike=0.000000
+Epoch[1] Validation-person=0.239837
+Epoch[1] Validation-pottedplant=0.000182
+Epoch[1] Validation-sheep=0.090909
+Epoch[1] Validation-sofa=0.000000
+Epoch[1] Validation-train=0.000000
+Epoch[1] Validation-tvmonitor=0.015152
+Epoch[1] Validation-mAP=0.026349
+Epoch[2] Batch [20]	Speed: 9.33 samples/sec	CrossEntropy=1.172338	SmoothL1=0.515953
+Epoch[2] Batch [40]	Speed: 9.33 samples/sec	CrossEntropy=1.141780	SmoothL1=0.523404
+Epoch[2] Batch [60]	Speed: 9.37 samples/sec	CrossEntropy=1.208348	SmoothL1=0.499594
+Epoch[2] Batch [80]	Speed: 9.35 samples/sec	CrossEntropy=1.152276	SmoothL1=0.503255
+Epoch[2] Batch [100]	Speed: 9.37 samples/sec	CrossEntropy=1.151925	SmoothL1=0.501956
+Epoch[2] Batch [120]	Speed: 9.31 samples/sec	CrossEntropy=1.149819	SmoothL1=0.529590
+Epoch[2] Batch [140]	Speed: 9.30 samples/sec	CrossEntropy=1.156056	SmoothL1=0.533340
+Epoch[2] Batch [160]	Speed: 9.32 samples/sec	CrossEntropy=1.159508	SmoothL1=0.524558
+Epoch[2] Batch [180]	Speed: 9.36 samples/sec	CrossEntropy=1.164224	SmoothL1=0.522124
+Epoch[2] Batch [200]	Speed: 9.34 samples/sec	CrossEntropy=1.113200	SmoothL1=0.504745
+Epoch[2] Batch [220]	Speed: 9.36 samples/sec	CrossEntropy=1.140766	SmoothL1=0.499378
+Epoch[2] Batch [240]	Speed: 9.39 samples/sec	CrossEntropy=1.147766	SmoothL1=0.498822
+Epoch[2] Batch [260]	Speed: 9.34 samples/sec	CrossEntropy=1.165550	SmoothL1=0.486424
+Epoch[2] Batch [280]	Speed: 9.38 samples/sec	CrossEntropy=1.127058	SmoothL1=0.487286
+Epoch[2] Batch [300]	Speed: 9.41 samples/sec	CrossEntropy=1.136903	SmoothL1=0.482446
+Epoch[2] Train-CrossEntropy=1.125001
+Epoch[2] Train-SmoothL1=0.500617
+Epoch[2] Time cost=534.730
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0003.params"
+Epoch[2] Validation-aeroplane=0.012987
+Epoch[2] Validation-bicycle=0.090909
+Epoch[2] Validation-bird=0.002864
+Epoch[2] Validation-boat=0.000000
+Epoch[2] Validation-bottle=0.003868
+Epoch[2] Validation-bus=0.000000
+Epoch[2] Validation-car=0.278131
+Epoch[2] Validation-cat=0.030303
+Epoch[2] Validation-chair=0.006734
+Epoch[2] Validation-cow=0.090909
+Epoch[2] Validation-diningtable=0.000000
+Epoch[2] Validation-dog=0.022727
+Epoch[2] Validation-horse=0.018182
+Epoch[2] Validation-motorbike=0.090909
+Epoch[2] Validation-person=0.365913
+Epoch[2] Validation-pottedplant=0.000015
+Epoch[2] Validation-sheep=0.110252
+Epoch[2] Validation-sofa=0.018182
+Epoch[2] Validation-train=0.008264
+Epoch[2] Validation-tvmonitor=0.012184
+Epoch[2] Validation-mAP=0.058167
+Epoch[3] Batch [20]	Speed: 9.36 samples/sec	CrossEntropy=1.126656	SmoothL1=0.491023
+Epoch[3] Batch [40]	Speed: 9.33 samples/sec	CrossEntropy=1.102875	SmoothL1=0.482707
+Epoch[3] Batch [60]	Speed: 9.37 samples/sec	CrossEntropy=1.135164	SmoothL1=0.478155
+Epoch[3] Batch [80]	Speed: 9.47 samples/sec	CrossEntropy=1.126718	SmoothL1=0.464522
+Epoch[3] Batch [100]	Speed: 9.45 samples/sec	CrossEntropy=1.114999	SmoothL1=0.487319
+Epoch[3] Batch [120]	Speed: 9.36 samples/sec	CrossEntropy=1.130488	SmoothL1=0.490027
+Epoch[3] Batch [140]	Speed: 9.29 samples/sec	CrossEntropy=1.139208	SmoothL1=0.493596
+Epoch[3] Batch [160]	Speed: 9.38 samples/sec	CrossEntropy=1.110123	SmoothL1=0.483937
+Epoch[3] Batch [180]	Speed: 9.40 samples/sec	CrossEntropy=1.094237	SmoothL1=0.490933
+Epoch[3] Batch [200]	Speed: 9.32 samples/sec	CrossEntropy=1.090760	SmoothL1=0.495831
+Epoch[3] Batch [220]	Speed: 9.37 samples/sec	CrossEntropy=1.086232	SmoothL1=0.463466
+Epoch[3] Batch [240]	Speed: 9.33 samples/sec	CrossEntropy=1.077841	SmoothL1=0.453909
+Epoch[3] Batch [260]	Speed: 9.36 samples/sec	CrossEntropy=1.104315	SmoothL1=0.462453
+Epoch[3] Batch [280]	Speed: 9.40 samples/sec	CrossEntropy=1.096623	SmoothL1=0.474213
+Epoch[3] Batch [300]	Speed: 9.45 samples/sec	CrossEntropy=1.088285	SmoothL1=0.465921
+Epoch[3] Train-CrossEntropy=1.065493
+Epoch[3] Train-SmoothL1=0.481745
+Epoch[3] Time cost=533.556
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0004.params"
+Epoch[3] Validation-aeroplane=0.101820
+Epoch[3] Validation-bicycle=0.102619
+Epoch[3] Validation-bird=0.004023
+Epoch[3] Validation-boat=0.020979
+Epoch[3] Validation-bottle=0.022727
+Epoch[3] Validation-bus=0.000000
+Epoch[3] Validation-car=0.302123
+Epoch[3] Validation-cat=0.013636
+Epoch[3] Validation-chair=0.003038
+Epoch[3] Validation-cow=0.017483
+Epoch[3] Validation-diningtable=0.000292
+Epoch[3] Validation-dog=0.115908
+Epoch[3] Validation-horse=0.090909
+Epoch[3] Validation-motorbike=0.090909
+Epoch[3] Validation-person=0.402068
+Epoch[3] Validation-pottedplant=0.000320
+Epoch[3] Validation-sheep=0.115894
+Epoch[3] Validation-sofa=0.000999
+Epoch[3] Validation-train=0.000000
+Epoch[3] Validation-tvmonitor=0.020528
+Epoch[3] Validation-mAP=0.071314
+Epoch[4] Batch [20]	Speed: 9.41 samples/sec	CrossEntropy=1.067350	SmoothL1=0.462741
+Epoch[4] Batch [40]	Speed: 9.37 samples/sec	CrossEntropy=1.066623	SmoothL1=0.465130
+Epoch[4] Batch [60]	Speed: 9.44 samples/sec	CrossEntropy=1.092353	SmoothL1=0.448696
+Epoch[4] Batch [80]	Speed: 9.44 samples/sec	CrossEntropy=1.056483	SmoothL1=0.439523
+Epoch[4] Batch [100]	Speed: 9.45 samples/sec	CrossEntropy=1.086143	SmoothL1=0.456137
+Epoch[4] Batch [120]	Speed: 9.41 samples/sec	CrossEntropy=1.050478	SmoothL1=0.470604
+Epoch[4] Batch [140]	Speed: 9.43 samples/sec	CrossEntropy=1.072997	SmoothL1=0.463181
+Epoch[4] Batch [160]	Speed: 9.40 samples/sec	CrossEntropy=1.069095	SmoothL1=0.477789
+Epoch[4] Batch [180]	Speed: 9.36 samples/sec	CrossEntropy=1.055301	SmoothL1=0.448534
+Epoch[4] Batch [200]	Speed: 9.34 samples/sec	CrossEntropy=1.059138	SmoothL1=0.456625
+Epoch[4] Batch [220]	Speed: 9.37 samples/sec	CrossEntropy=1.050485	SmoothL1=0.450907
+Epoch[4] Batch [240]	Speed: 9.37 samples/sec	CrossEntropy=1.041369	SmoothL1=0.436629
+Epoch[4] Batch [260]	Speed: 9.38 samples/sec	CrossEntropy=1.037478	SmoothL1=0.430756
+Epoch[4] Batch [280]	Speed: 9.42 samples/sec	CrossEntropy=1.064092	SmoothL1=0.458645
+Epoch[4] Batch [300]	Speed: 9.44 samples/sec	CrossEntropy=1.048935	SmoothL1=0.449433
+Epoch[4] Train-CrossEntropy=1.037721
+Epoch[4] Train-SmoothL1=0.450883
+Epoch[4] Time cost=531.979
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0005.params"
+Epoch[4] Validation-aeroplane=0.113598
+Epoch[4] Validation-bicycle=0.203283
+Epoch[4] Validation-bird=0.010768
+Epoch[4] Validation-boat=0.006061
+Epoch[4] Validation-bottle=0.025974
+Epoch[4] Validation-bus=0.036364
+Epoch[4] Validation-car=0.392768
+Epoch[4] Validation-cat=0.007371
+Epoch[4] Validation-chair=0.107400
+Epoch[4] Validation-cow=0.054545
+Epoch[4] Validation-diningtable=0.000000
+Epoch[4] Validation-dog=0.139132
+Epoch[4] Validation-horse=0.149621
+Epoch[4] Validation-motorbike=0.116084
+Epoch[4] Validation-person=0.463151
+Epoch[4] Validation-pottedplant=0.002377
+Epoch[4] Validation-sheep=0.119858
+Epoch[4] Validation-sofa=0.000000
+Epoch[4] Validation-train=0.030303
+Epoch[4] Validation-tvmonitor=0.128410
+Epoch[4] Validation-mAP=0.105353
+Epoch[5] Batch [20]	Speed: 9.47 samples/sec	CrossEntropy=1.023035	SmoothL1=0.453964
+Epoch[5] Batch [40]	Speed: 9.41 samples/sec	CrossEntropy=1.045832	SmoothL1=0.466864
+Epoch[5] Batch [60]	Speed: 9.44 samples/sec	CrossEntropy=1.047527	SmoothL1=0.439413
+Epoch[5] Batch [80]	Speed: 9.44 samples/sec	CrossEntropy=1.034308	SmoothL1=0.426256
+Epoch[5] Batch [100]	Speed: 9.46 samples/sec	CrossEntropy=1.026849	SmoothL1=0.436362
+Epoch[5] Batch [120]	Speed: 9.40 samples/sec	CrossEntropy=1.012973	SmoothL1=0.453158
+Epoch[5] Batch [140]	Speed: 9.40 samples/sec	CrossEntropy=1.047754	SmoothL1=0.452090
+Epoch[5] Batch [160]	Speed: 9.41 samples/sec	CrossEntropy=1.022031	SmoothL1=0.469137
+Epoch[5] Batch [180]	Speed: 9.45 samples/sec	CrossEntropy=1.007264	SmoothL1=0.440372
+Epoch[5] Batch [200]	Speed: 9.42 samples/sec	CrossEntropy=1.006802	SmoothL1=0.435768
+Epoch[5] Batch [220]	Speed: 9.42 samples/sec	CrossEntropy=1.011006	SmoothL1=0.423765
+Epoch[5] Batch [240]	Speed: 9.42 samples/sec	CrossEntropy=1.010222	SmoothL1=0.423683
+Epoch[5] Batch [260]	Speed: 9.44 samples/sec	CrossEntropy=1.017724	SmoothL1=0.416457
+Epoch[5] Batch [280]	Speed: 9.45 samples/sec	CrossEntropy=1.010822	SmoothL1=0.429131
+Epoch[5] Batch [300]	Speed: 9.48 samples/sec	CrossEntropy=1.006286	SmoothL1=0.426056
+Epoch[5] Train-CrossEntropy=1.001719
+Epoch[5] Train-SmoothL1=0.439142
+Epoch[5] Time cost=531.649
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0006.params"
+Epoch[5] Validation-aeroplane=0.152598
+Epoch[5] Validation-bicycle=0.154807
+Epoch[5] Validation-bird=0.002990
+Epoch[5] Validation-boat=0.005401
+Epoch[5] Validation-bottle=0.045455
+Epoch[5] Validation-bus=0.015152
+Epoch[5] Validation-car=0.544621
+Epoch[5] Validation-cat=0.139613
+Epoch[5] Validation-chair=0.129230
+Epoch[5] Validation-cow=0.089601
+Epoch[5] Validation-diningtable=0.000000
+Epoch[5] Validation-dog=0.183348
+Epoch[5] Validation-horse=0.137444
+Epoch[5] Validation-motorbike=0.183921
+Epoch[5] Validation-person=0.507781
+Epoch[5] Validation-pottedplant=0.091390
+Epoch[5] Validation-sheep=0.134535
+Epoch[5] Validation-sofa=0.000000
+Epoch[5] Validation-train=0.040308
+Epoch[5] Validation-tvmonitor=0.166410
+Epoch[5] Validation-mAP=0.136230
+Epoch[6] Batch [20]	Speed: 9.45 samples/sec	CrossEntropy=0.999335	SmoothL1=0.419721
+Epoch[6] Batch [40]	Speed: 9.45 samples/sec	CrossEntropy=1.033432	SmoothL1=0.445817
+Epoch[6] Batch [60]	Speed: 9.43 samples/sec	CrossEntropy=1.022956	SmoothL1=0.421543
+Epoch[6] Batch [80]	Speed: 9.46 samples/sec	CrossEntropy=1.003453	SmoothL1=0.425280
+Epoch[6] Batch [100]	Speed: 9.42 samples/sec	CrossEntropy=0.991992	SmoothL1=0.417985
+Epoch[6] Batch [120]	Speed: 9.45 samples/sec	CrossEntropy=1.024782	SmoothL1=0.457233
+Epoch[6] Batch [140]	Speed: 9.48 samples/sec	CrossEntropy=1.025576	SmoothL1=0.442273
+Epoch[6] Batch [160]	Speed: 9.41 samples/sec	CrossEntropy=1.004114	SmoothL1=0.436766
+Epoch[6] Batch [180]	Speed: 9.40 samples/sec	CrossEntropy=0.975093	SmoothL1=0.425925
+Epoch[6] Batch [200]	Speed: 9.43 samples/sec	CrossEntropy=1.034165	SmoothL1=0.450632
+Epoch[6] Batch [220]	Speed: 9.45 samples/sec	CrossEntropy=0.985143	SmoothL1=0.429774
+Epoch[6] Batch [240]	Speed: 9.43 samples/sec	CrossEntropy=0.978312	SmoothL1=0.412354
+Epoch[6] Batch [260]	Speed: 9.44 samples/sec	CrossEntropy=0.985818	SmoothL1=0.431630
+Epoch[6] Batch [280]	Speed: 9.43 samples/sec	CrossEntropy=0.972646	SmoothL1=0.403807
+Epoch[6] Batch [300]	Speed: 9.47 samples/sec	CrossEntropy=0.974713	SmoothL1=0.418424
+Epoch[6] Train-CrossEntropy=0.973001
+Epoch[6] Train-SmoothL1=0.435706
+Epoch[6] Time cost=529.722
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0007.params"
+Epoch[6] Validation-aeroplane=0.085228
+Epoch[6] Validation-bicycle=0.304113
+Epoch[6] Validation-bird=0.018045
+Epoch[6] Validation-boat=0.007362
+Epoch[6] Validation-bottle=0.045455
+Epoch[6] Validation-bus=0.132543
+Epoch[6] Validation-car=0.547607
+Epoch[6] Validation-cat=0.172044
+Epoch[6] Validation-chair=0.050967
+Epoch[6] Validation-cow=0.141027
+Epoch[6] Validation-diningtable=0.002901
+Epoch[6] Validation-dog=0.227637
+Epoch[6] Validation-horse=0.137555
+Epoch[6] Validation-motorbike=0.215593
+Epoch[6] Validation-person=0.524167
+Epoch[6] Validation-pottedplant=0.093004
+Epoch[6] Validation-sheep=0.152338
+Epoch[6] Validation-sofa=0.114734
+Epoch[6] Validation-train=0.122414
+Epoch[6] Validation-tvmonitor=0.248884
+Epoch[6] Validation-mAP=0.167181
+Epoch[7] Batch [20]	Speed: 9.46 samples/sec	CrossEntropy=0.956163	SmoothL1=0.403687
+Epoch[7] Batch [40]	Speed: 9.44 samples/sec	CrossEntropy=0.974998	SmoothL1=0.435434
+Epoch[7] Batch [60]	Speed: 9.46 samples/sec	CrossEntropy=0.994571	SmoothL1=0.422017
+Epoch[7] Batch [80]	Speed: 9.44 samples/sec	CrossEntropy=0.977634	SmoothL1=0.409754
+Epoch[7] Batch [100]	Speed: 9.45 samples/sec	CrossEntropy=0.983406	SmoothL1=0.422965
+Epoch[7] Batch [120]	Speed: 9.44 samples/sec	CrossEntropy=0.970618	SmoothL1=0.436450
+Epoch[7] Batch [140]	Speed: 9.44 samples/sec	CrossEntropy=0.970783	SmoothL1=0.437184
+Epoch[7] Batch [160]	Speed: 9.49 samples/sec	CrossEntropy=0.982970	SmoothL1=0.417547
+Epoch[7] Batch [180]	Speed: 9.44 samples/sec	CrossEntropy=0.974169	SmoothL1=0.429566
+Epoch[7] Batch [200]	Speed: 9.46 samples/sec	CrossEntropy=0.940628	SmoothL1=0.410941
+Epoch[7] Batch [220]	Speed: 9.47 samples/sec	CrossEntropy=0.969091	SmoothL1=0.412389
+Epoch[7] Batch [240]	Speed: 9.46 samples/sec	CrossEntropy=0.958419	SmoothL1=0.413917
+Epoch[7] Batch [260]	Speed: 9.49 samples/sec	CrossEntropy=0.947413	SmoothL1=0.396828
+Epoch[7] Batch [280]	Speed: 9.45 samples/sec	CrossEntropy=0.973114	SmoothL1=0.425388
+Epoch[7] Batch [300]	Speed: 9.44 samples/sec	CrossEntropy=0.941184	SmoothL1=0.419891
+Epoch[7] Train-CrossEntropy=0.954244
+Epoch[7] Train-SmoothL1=0.411323
+Epoch[7] Time cost=528.783
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0008.params"
+Epoch[7] Validation-aeroplane=0.166213
+Epoch[7] Validation-bicycle=0.221673
+Epoch[7] Validation-bird=0.060494
+Epoch[7] Validation-boat=0.006647
+Epoch[7] Validation-bottle=0.063526
+Epoch[7] Validation-bus=0.054683
+Epoch[7] Validation-car=0.577637
+Epoch[7] Validation-cat=0.220647
+Epoch[7] Validation-chair=0.059015
+Epoch[7] Validation-cow=0.185115
+Epoch[7] Validation-diningtable=0.011364
+Epoch[7] Validation-dog=0.261566
+Epoch[7] Validation-horse=0.202742
+Epoch[7] Validation-motorbike=0.189656
+Epoch[7] Validation-person=0.508654
+Epoch[7] Validation-pottedplant=0.094745
+Epoch[7] Validation-sheep=0.150450
+Epoch[7] Validation-sofa=0.110579
+Epoch[7] Validation-train=0.099136
+Epoch[7] Validation-tvmonitor=0.194451
+Epoch[7] Validation-mAP=0.171950
+Epoch[8] Batch [20]	Speed: 9.45 samples/sec	CrossEntropy=0.948177	SmoothL1=0.407906
+Epoch[8] Batch [40]	Speed: 9.43 samples/sec	CrossEntropy=0.934467	SmoothL1=0.415927
+Epoch[8] Batch [60]	Speed: 9.45 samples/sec	CrossEntropy=0.966178	SmoothL1=0.401217
+Epoch[8] Batch [80]	Speed: 9.49 samples/sec	CrossEntropy=0.948394	SmoothL1=0.387513
+Epoch[8] Batch [100]	Speed: 9.46 samples/sec	CrossEntropy=0.944936	SmoothL1=0.414610
+Epoch[8] Batch [120]	Speed: 9.44 samples/sec	CrossEntropy=0.971308	SmoothL1=0.425077
+Epoch[8] Batch [140]	Speed: 9.47 samples/sec	CrossEntropy=0.940222	SmoothL1=0.425502
+Epoch[8] Batch [160]	Speed: 9.44 samples/sec	CrossEntropy=0.966138	SmoothL1=0.411717
+Epoch[8] Batch [180]	Speed: 9.48 samples/sec	CrossEntropy=0.945222	SmoothL1=0.408747
+Epoch[8] Batch [200]	Speed: 9.50 samples/sec	CrossEntropy=0.928048	SmoothL1=0.396611
+Epoch[8] Batch [220]	Speed: 9.49 samples/sec	CrossEntropy=0.924119	SmoothL1=0.402287
+Epoch[8] Batch [240]	Speed: 9.44 samples/sec	CrossEntropy=0.936916	SmoothL1=0.394762
+Epoch[8] Batch [260]	Speed: 9.46 samples/sec	CrossEntropy=0.924165	SmoothL1=0.388753
+Epoch[8] Batch [280]	Speed: 9.51 samples/sec	CrossEntropy=0.938643	SmoothL1=0.407044
+Epoch[8] Batch [300]	Speed: 9.42 samples/sec	CrossEntropy=0.926077	SmoothL1=0.404356
+Epoch[8] Train-CrossEntropy=0.898001
+Epoch[8] Train-SmoothL1=0.425858
+Epoch[8] Time cost=528.484
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0009.params"
+Epoch[8] Validation-aeroplane=0.252053
+Epoch[8] Validation-bicycle=0.315327
+Epoch[8] Validation-bird=0.152606
+Epoch[8] Validation-boat=0.053765
+Epoch[8] Validation-bottle=0.061083
+Epoch[8] Validation-bus=0.094726
+Epoch[8] Validation-car=0.598993
+Epoch[8] Validation-cat=0.337877
+Epoch[8] Validation-chair=0.189676
+Epoch[8] Validation-cow=0.134025
+Epoch[8] Validation-diningtable=0.010101
+Epoch[8] Validation-dog=0.317852
+Epoch[8] Validation-horse=0.201562
+Epoch[8] Validation-motorbike=0.232500
+Epoch[8] Validation-person=0.585249
+Epoch[8] Validation-pottedplant=0.097798
+Epoch[8] Validation-sheep=0.141557
+Epoch[8] Validation-sofa=0.099903
+Epoch[8] Validation-train=0.088178
+Epoch[8] Validation-tvmonitor=0.368477
+Epoch[8] Validation-mAP=0.216665
+Epoch[9] Batch [20]	Speed: 9.50 samples/sec	CrossEntropy=0.930449	SmoothL1=0.399237
+Epoch[9] Batch [40]	Speed: 9.45 samples/sec	CrossEntropy=0.920696	SmoothL1=0.408100
+Epoch[9] Batch [60]	Speed: 9.53 samples/sec	CrossEntropy=0.929262	SmoothL1=0.381896
+Epoch[9] Batch [80]	Speed: 9.46 samples/sec	CrossEntropy=0.939754	SmoothL1=0.392294
+Epoch[9] Batch [100]	Speed: 9.48 samples/sec	CrossEntropy=0.907492	SmoothL1=0.376727
+Epoch[9] Batch [120]	Speed: 9.50 samples/sec	CrossEntropy=0.935455	SmoothL1=0.421814
+Epoch[9] Batch [140]	Speed: 9.51 samples/sec	CrossEntropy=0.916389	SmoothL1=0.408969
+Epoch[9] Batch [160]	Speed: 9.49 samples/sec	CrossEntropy=0.925686	SmoothL1=0.417361
+Epoch[9] Batch [180]	Speed: 9.45 samples/sec	CrossEntropy=0.927070	SmoothL1=0.414970
+Epoch[9] Batch [200]	Speed: 9.42 samples/sec	CrossEntropy=0.894989	SmoothL1=0.398762
+Epoch[9] Batch [220]	Speed: 9.47 samples/sec	CrossEntropy=0.918867	SmoothL1=0.425642
+Epoch[9] Batch [240]	Speed: 9.49 samples/sec	CrossEntropy=0.897232	SmoothL1=0.376846
+Epoch[9] Batch [260]	Speed: 9.50 samples/sec	CrossEntropy=0.895874	SmoothL1=0.377003
+Epoch[9] Batch [280]	Speed: 9.46 samples/sec	CrossEntropy=0.921325	SmoothL1=0.379059
+Epoch[9] Batch [300]	Speed: 9.49 samples/sec	CrossEntropy=0.916379	SmoothL1=0.386187
+Epoch[9] Train-CrossEntropy=0.913208
+Epoch[9] Train-SmoothL1=0.404705
+Epoch[9] Time cost=527.474
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0010.params"
+Epoch[9] Validation-aeroplane=0.313760
+Epoch[9] Validation-bicycle=0.452157
+Epoch[9] Validation-bird=0.266638
+Epoch[9] Validation-boat=0.104297
+Epoch[9] Validation-bottle=0.049153
+Epoch[9] Validation-bus=0.120434
+Epoch[9] Validation-car=0.667773
+Epoch[9] Validation-cat=0.370759
+Epoch[9] Validation-chair=0.217349
+Epoch[9] Validation-cow=0.241959
+Epoch[9] Validation-diningtable=0.045455
+Epoch[9] Validation-dog=0.408215
+Epoch[9] Validation-horse=0.327087
+Epoch[9] Validation-motorbike=0.333797
+Epoch[9] Validation-person=0.595147
+Epoch[9] Validation-pottedplant=0.118640
+Epoch[9] Validation-sheep=0.208734
+Epoch[9] Validation-sofa=0.135773
+Epoch[9] Validation-train=0.230447
+Epoch[9] Validation-tvmonitor=0.372552
+Epoch[9] Validation-mAP=0.279006
+Epoch[10] Batch [20]	Speed: 9.51 samples/sec	CrossEntropy=0.899529	SmoothL1=0.396708
+Epoch[10] Batch [40]	Speed: 9.49 samples/sec	CrossEntropy=0.898347	SmoothL1=0.404606
+Epoch[10] Batch [60]	Speed: 9.51 samples/sec	CrossEntropy=0.906848	SmoothL1=0.382529
+Epoch[10] Batch [80]	Speed: 9.48 samples/sec	CrossEntropy=0.899141	SmoothL1=0.389309
+Epoch[10] Batch [100]	Speed: 9.48 samples/sec	CrossEntropy=0.893503	SmoothL1=0.386964
+Epoch[10] Batch [120]	Speed: 9.48 samples/sec	CrossEntropy=0.878330	SmoothL1=0.413846
+Epoch[10] Batch [140]	Speed: 9.49 samples/sec	CrossEntropy=0.889493	SmoothL1=0.383033
+Epoch[10] Batch [160]	Speed: 9.45 samples/sec	CrossEntropy=0.909169	SmoothL1=0.393344
+Epoch[10] Batch [180]	Speed: 9.47 samples/sec	CrossEntropy=0.908315	SmoothL1=0.408788
+Epoch[10] Batch [200]	Speed: 9.46 samples/sec	CrossEntropy=0.868558	SmoothL1=0.370890
+Epoch[10] Batch [220]	Speed: 9.43 samples/sec	CrossEntropy=0.887291	SmoothL1=0.411197
+Epoch[10] Batch [240]	Speed: 9.47 samples/sec	CrossEntropy=0.874704	SmoothL1=0.384819
+Epoch[10] Batch [260]	Speed: 9.51 samples/sec	CrossEntropy=0.884689	SmoothL1=0.377467
+Epoch[10] Batch [280]	Speed: 9.50 samples/sec	CrossEntropy=0.892966	SmoothL1=0.386810
+Epoch[10] Batch [300]	Speed: 9.45 samples/sec	CrossEntropy=0.896674	SmoothL1=0.403625
+Epoch[10] Train-CrossEntropy=0.888351
+Epoch[10] Train-SmoothL1=0.395463
+Epoch[10] Time cost=529.289
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0011.params"
+Epoch[10] Validation-aeroplane=0.343418
+Epoch[10] Validation-bicycle=0.435369
+Epoch[10] Validation-bird=0.317348
+Epoch[10] Validation-boat=0.052308
+Epoch[10] Validation-bottle=0.048611
+Epoch[10] Validation-bus=0.143485
+Epoch[10] Validation-car=0.666282
+Epoch[10] Validation-cat=0.422829
+Epoch[10] Validation-chair=0.236506
+Epoch[10] Validation-cow=0.207440
+Epoch[10] Validation-diningtable=0.132403
+Epoch[10] Validation-dog=0.440151
+Epoch[10] Validation-horse=0.411391
+Epoch[10] Validation-motorbike=0.307148
+Epoch[10] Validation-person=0.623345
+Epoch[10] Validation-pottedplant=0.108864
+Epoch[10] Validation-sheep=0.143941
+Epoch[10] Validation-sofa=0.206917
+Epoch[10] Validation-train=0.262876
+Epoch[10] Validation-tvmonitor=0.417975
+Epoch[10] Validation-mAP=0.296430
+Epoch[11] Batch [20]	Speed: 9.49 samples/sec	CrossEntropy=0.884887	SmoothL1=0.383856
+Epoch[11] Batch [40]	Speed: 9.47 samples/sec	CrossEntropy=0.903157	SmoothL1=0.395150
+Epoch[11] Batch [60]	Speed: 9.51 samples/sec	CrossEntropy=0.875867	SmoothL1=0.365332
+Epoch[11] Batch [80]	Speed: 9.53 samples/sec	CrossEntropy=0.864841	SmoothL1=0.376415
+Epoch[11] Batch [100]	Speed: 9.50 samples/sec	CrossEntropy=0.855433	SmoothL1=0.377405
+Epoch[11] Batch [120]	Speed: 9.42 samples/sec	CrossEntropy=0.870748	SmoothL1=0.394467
+Epoch[11] Batch [140]	Speed: 9.48 samples/sec	CrossEntropy=0.910100	SmoothL1=0.400138
+Epoch[11] Batch [160]	Speed: 9.49 samples/sec	CrossEntropy=0.880878	SmoothL1=0.395326
+Epoch[11] Batch [180]	Speed: 9.46 samples/sec	CrossEntropy=0.864668	SmoothL1=0.392178
+Epoch[11] Batch [200]	Speed: 9.46 samples/sec	CrossEntropy=0.840501	SmoothL1=0.383809
+Epoch[11] Batch [220]	Speed: 9.47 samples/sec	CrossEntropy=0.864653	SmoothL1=0.404967
+Epoch[11] Batch [240]	Speed: 9.47 samples/sec	CrossEntropy=0.868334	SmoothL1=0.374573
+Epoch[11] Batch [260]	Speed: 9.52 samples/sec	CrossEntropy=0.856007	SmoothL1=0.365082
+Epoch[11] Batch [280]	Speed: 9.48 samples/sec	CrossEntropy=0.866714	SmoothL1=0.384882
+Epoch[11] Batch [300]	Speed: 9.53 samples/sec	CrossEntropy=0.875597	SmoothL1=0.387635
+Epoch[11] Train-CrossEntropy=0.841433
+Epoch[11] Train-SmoothL1=0.384660
+Epoch[11] Time cost=527.281
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0012.params"
+Epoch[11] Validation-aeroplane=0.383510
+Epoch[11] Validation-bicycle=0.427690
+Epoch[11] Validation-bird=0.289743
+Epoch[11] Validation-boat=0.126860
+Epoch[11] Validation-bottle=0.079546
+Epoch[11] Validation-bus=0.247679
+Epoch[11] Validation-car=0.679266
+Epoch[11] Validation-cat=0.423309
+Epoch[11] Validation-chair=0.147607
+Epoch[11] Validation-cow=0.226369
+Epoch[11] Validation-diningtable=0.083906
+Epoch[11] Validation-dog=0.355234
+Epoch[11] Validation-horse=0.447762
+Epoch[11] Validation-motorbike=0.344896
+Epoch[11] Validation-person=0.622174
+Epoch[11] Validation-pottedplant=0.120395
+Epoch[11] Validation-sheep=0.166543
+Epoch[11] Validation-sofa=0.206454
+Epoch[11] Validation-train=0.228028
+Epoch[11] Validation-tvmonitor=0.390378
+Epoch[11] Validation-mAP=0.299867
+Epoch[12] Batch [20]	Speed: 9.53 samples/sec	CrossEntropy=0.822564	SmoothL1=0.380600
+Epoch[12] Batch [40]	Speed: 9.46 samples/sec	CrossEntropy=0.864838	SmoothL1=0.390573
+Epoch[12] Batch [60]	Speed: 9.43 samples/sec	CrossEntropy=0.869002	SmoothL1=0.371726
+Epoch[12] Batch [80]	Speed: 9.47 samples/sec	CrossEntropy=0.868483	SmoothL1=0.373113
+Epoch[12] Batch [100]	Speed: 9.47 samples/sec	CrossEntropy=0.857131	SmoothL1=0.371844
+Epoch[12] Batch [120]	Speed: 9.47 samples/sec	CrossEntropy=0.871707	SmoothL1=0.388942
+Epoch[12] Batch [140]	Speed: 9.47 samples/sec	CrossEntropy=0.853773	SmoothL1=0.387610
+Epoch[12] Batch [160]	Speed: 9.49 samples/sec	CrossEntropy=0.864083	SmoothL1=0.382850
+Epoch[12] Batch [180]	Speed: 9.50 samples/sec	CrossEntropy=0.881935	SmoothL1=0.395868
+Epoch[12] Batch [200]	Speed: 9.47 samples/sec	CrossEntropy=0.856150	SmoothL1=0.376535
+Epoch[12] Batch [220]	Speed: 9.50 samples/sec	CrossEntropy=0.857647	SmoothL1=0.403647
+Epoch[12] Batch [240]	Speed: 9.50 samples/sec	CrossEntropy=0.858213	SmoothL1=0.361259
+Epoch[12] Batch [260]	Speed: 9.50 samples/sec	CrossEntropy=0.832458	SmoothL1=0.363732
+Epoch[12] Batch [280]	Speed: 9.50 samples/sec	CrossEntropy=0.846088	SmoothL1=0.376617
+Epoch[12] Batch [300]	Speed: 9.49 samples/sec	CrossEntropy=0.822378	SmoothL1=0.381250
+Epoch[12] Train-CrossEntropy=0.835157
+Epoch[12] Train-SmoothL1=0.377022
+Epoch[12] Time cost=527.315
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0013.params"
+Epoch[12] Validation-aeroplane=0.454816
+Epoch[12] Validation-bicycle=0.443182
+Epoch[12] Validation-bird=0.348226
+Epoch[12] Validation-boat=0.113327
+Epoch[12] Validation-bottle=0.150212
+Epoch[12] Validation-bus=0.329521
+Epoch[12] Validation-car=0.710953
+Epoch[12] Validation-cat=0.513986
+Epoch[12] Validation-chair=0.248578
+Epoch[12] Validation-cow=0.295096
+Epoch[12] Validation-diningtable=0.068626
+Epoch[12] Validation-dog=0.441656
+Epoch[12] Validation-horse=0.524702
+Epoch[12] Validation-motorbike=0.443916
+Epoch[12] Validation-person=0.619811
+Epoch[12] Validation-pottedplant=0.121460
+Epoch[12] Validation-sheep=0.187366
+Epoch[12] Validation-sofa=0.244433
+Epoch[12] Validation-train=0.256916
+Epoch[12] Validation-tvmonitor=0.455188
+Epoch[12] Validation-mAP=0.348599
+Epoch[13] Batch [20]	Speed: 9.45 samples/sec	CrossEntropy=0.820789	SmoothL1=0.359036
+Epoch[13] Batch [40]	Speed: 9.50 samples/sec	CrossEntropy=0.847261	SmoothL1=0.396435
+Epoch[13] Batch [60]	Speed: 9.49 samples/sec	CrossEntropy=0.858474	SmoothL1=0.375099
+Epoch[13] Batch [80]	Speed: 9.46 samples/sec	CrossEntropy=0.841526	SmoothL1=0.371264
+Epoch[13] Batch [100]	Speed: 9.52 samples/sec	CrossEntropy=0.832879	SmoothL1=0.359805
+Epoch[13] Batch [120]	Speed: 9.45 samples/sec	CrossEntropy=0.845136	SmoothL1=0.390165
+Epoch[13] Batch [140]	Speed: 9.52 samples/sec	CrossEntropy=0.848482	SmoothL1=0.384721
+Epoch[13] Batch [160]	Speed: 9.49 samples/sec	CrossEntropy=0.864554	SmoothL1=0.378928
+Epoch[13] Batch [180]	Speed: 9.48 samples/sec	CrossEntropy=0.862766	SmoothL1=0.379794
+Epoch[13] Batch [200]	Speed: 9.45 samples/sec	CrossEntropy=0.818392	SmoothL1=0.368793
+Epoch[13] Batch [220]	Speed: 9.49 samples/sec	CrossEntropy=0.825529	SmoothL1=0.367903
+Epoch[13] Batch [240]	Speed: 9.51 samples/sec	CrossEntropy=0.841102	SmoothL1=0.363524
+Epoch[13] Batch [260]	Speed: 9.49 samples/sec	CrossEntropy=0.839953	SmoothL1=0.346094
+Epoch[13] Batch [280]	Speed: 9.51 samples/sec	CrossEntropy=0.834002	SmoothL1=0.360739
+Epoch[13] Batch [300]	Speed: 9.52 samples/sec	CrossEntropy=0.820457	SmoothL1=0.372850
+Epoch[13] Train-CrossEntropy=0.844798
+Epoch[13] Train-SmoothL1=0.398005
+Epoch[13] Time cost=527.039
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0014.params"
+Epoch[13] Validation-aeroplane=0.432213
+Epoch[13] Validation-bicycle=0.457583
+Epoch[13] Validation-bird=0.329487
+Epoch[13] Validation-boat=0.081870
+Epoch[13] Validation-bottle=0.081501
+Epoch[13] Validation-bus=0.189917
+Epoch[13] Validation-car=0.713675
+Epoch[13] Validation-cat=0.515117
+Epoch[13] Validation-chair=0.280796
+Epoch[13] Validation-cow=0.293290
+Epoch[13] Validation-diningtable=0.141949
+Epoch[13] Validation-dog=0.448814
+Epoch[13] Validation-horse=0.574716
+Epoch[13] Validation-motorbike=0.409360
+Epoch[13] Validation-person=0.606456
+Epoch[13] Validation-pottedplant=0.168737
+Epoch[13] Validation-sheep=0.316555
+Epoch[13] Validation-sofa=0.305896
+Epoch[13] Validation-train=0.306462
+Epoch[13] Validation-tvmonitor=0.463637
+Epoch[13] Validation-mAP=0.355902
+Epoch[14] Batch [20]	Speed: 9.51 samples/sec	CrossEntropy=0.832086	SmoothL1=0.367068
+Epoch[14] Batch [40]	Speed: 9.48 samples/sec	CrossEntropy=0.847203	SmoothL1=0.378341
+Epoch[14] Batch [60]	Speed: 9.49 samples/sec	CrossEntropy=0.849980	SmoothL1=0.363948
+Epoch[14] Batch [80]	Speed: 9.50 samples/sec	CrossEntropy=0.851625	SmoothL1=0.365049
+Epoch[14] Batch [100]	Speed: 9.50 samples/sec	CrossEntropy=0.838271	SmoothL1=0.363100
+Epoch[14] Batch [120]	Speed: 9.46 samples/sec	CrossEntropy=0.850357	SmoothL1=0.377640
+Epoch[14] Batch [140]	Speed: 9.49 samples/sec	CrossEntropy=0.807347	SmoothL1=0.367944
+Epoch[14] Batch [160]	Speed: 9.47 samples/sec	CrossEntropy=0.851281	SmoothL1=0.386168
+Epoch[14] Batch [180]	Speed: 9.47 samples/sec	CrossEntropy=0.839733	SmoothL1=0.372909
+Epoch[14] Batch [200]	Speed: 9.47 samples/sec	CrossEntropy=0.805493	SmoothL1=0.384194
+Epoch[14] Batch [220]	Speed: 9.47 samples/sec	CrossEntropy=0.818332	SmoothL1=0.377568
+Epoch[14] Batch [240]	Speed: 9.47 samples/sec	CrossEntropy=0.805190	SmoothL1=0.354296
+Epoch[14] Batch [260]	Speed: 9.50 samples/sec	CrossEntropy=0.830378	SmoothL1=0.359870
+Epoch[14] Batch [280]	Speed: 9.50 samples/sec	CrossEntropy=0.842048	SmoothL1=0.366224
+Epoch[14] Batch [300]	Speed: 9.44 samples/sec	CrossEntropy=0.816397	SmoothL1=0.352852
+Epoch[14] Train-CrossEntropy=0.792829
+Epoch[14] Train-SmoothL1=0.378732
+Epoch[14] Time cost=527.418
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0015.params"
+Epoch[14] Validation-aeroplane=0.488941
+Epoch[14] Validation-bicycle=0.542477
+Epoch[14] Validation-bird=0.386538
+Epoch[14] Validation-boat=0.181355
+Epoch[14] Validation-bottle=0.134653
+Epoch[14] Validation-bus=0.337607
+Epoch[14] Validation-car=0.746628
+Epoch[14] Validation-cat=0.588887
+Epoch[14] Validation-chair=0.317970
+Epoch[14] Validation-cow=0.319783
+Epoch[14] Validation-diningtable=0.125960
+Epoch[14] Validation-dog=0.556121
+Epoch[14] Validation-horse=0.594645
+Epoch[14] Validation-motorbike=0.588092
+Epoch[14] Validation-person=0.618559
+Epoch[14] Validation-pottedplant=0.169774
+Epoch[14] Validation-sheep=0.353463
+Epoch[14] Validation-sofa=0.307275
+Epoch[14] Validation-train=0.398572
+Epoch[14] Validation-tvmonitor=0.477377
+Epoch[14] Validation-mAP=0.411734
+Epoch[15] Batch [20]	Speed: 9.47 samples/sec	CrossEntropy=0.799221	SmoothL1=0.348852
+Epoch[15] Batch [40]	Speed: 9.46 samples/sec	CrossEntropy=0.825684	SmoothL1=0.375118
+Epoch[15] Batch [60]	Speed: 9.50 samples/sec	CrossEntropy=0.810852	SmoothL1=0.352043
+Epoch[15] Batch [80]	Speed: 9.48 samples/sec	CrossEntropy=0.798873	SmoothL1=0.354183
+Epoch[15] Batch [100]	Speed: 9.51 samples/sec	CrossEntropy=0.807138	SmoothL1=0.366184
+Epoch[15] Batch [120]	Speed: 9.45 samples/sec	CrossEntropy=0.829707	SmoothL1=0.380897
+Epoch[15] Batch [140]	Speed: 9.46 samples/sec	CrossEntropy=0.843030	SmoothL1=0.374017
+Epoch[15] Batch [160]	Speed: 9.47 samples/sec	CrossEntropy=0.835678	SmoothL1=0.371655
+Epoch[15] Batch [180]	Speed: 9.46 samples/sec	CrossEntropy=0.830797	SmoothL1=0.367926
+Epoch[15] Batch [200]	Speed: 9.50 samples/sec	CrossEntropy=0.776510	SmoothL1=0.347071
+Epoch[15] Batch [220]	Speed: 9.46 samples/sec	CrossEntropy=0.810396	SmoothL1=0.370363
+Epoch[15] Batch [240]	Speed: 9.46 samples/sec	CrossEntropy=0.814952	SmoothL1=0.355419
+Epoch[15] Batch [260]	Speed: 9.53 samples/sec	CrossEntropy=0.790601	SmoothL1=0.345815
+Epoch[15] Batch [280]	Speed: 9.52 samples/sec	CrossEntropy=0.815866	SmoothL1=0.349243
+Epoch[15] Batch [300]	Speed: 9.53 samples/sec	CrossEntropy=0.804946	SmoothL1=0.354441
+Epoch[15] Train-CrossEntropy=0.820744
+Epoch[15] Train-SmoothL1=0.375595
+Epoch[15] Time cost=527.162
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0016.params"
+Epoch[15] Validation-aeroplane=0.522282
+Epoch[15] Validation-bicycle=0.571039
+Epoch[15] Validation-bird=0.477903
+Epoch[15] Validation-boat=0.143321
+Epoch[15] Validation-bottle=0.222382
+Epoch[15] Validation-bus=0.263981
+Epoch[15] Validation-car=0.742721
+Epoch[15] Validation-cat=0.608875
+Epoch[15] Validation-chair=0.323120
+Epoch[15] Validation-cow=0.381061
+Epoch[15] Validation-diningtable=0.154377
+Epoch[15] Validation-dog=0.555455
+Epoch[15] Validation-horse=0.598466
+Epoch[15] Validation-motorbike=0.561628
+Epoch[15] Validation-person=0.657478
+Epoch[15] Validation-pottedplant=0.178047
+Epoch[15] Validation-sheep=0.352685
+Epoch[15] Validation-sofa=0.305845
+Epoch[15] Validation-train=0.423068
+Epoch[15] Validation-tvmonitor=0.498260
+Epoch[15] Validation-mAP=0.427100
+Epoch[16] Batch [20]	Speed: 9.46 samples/sec	CrossEntropy=0.765731	SmoothL1=0.340831
+Epoch[16] Batch [40]	Speed: 9.50 samples/sec	CrossEntropy=0.808425	SmoothL1=0.380467
+Epoch[16] Batch [60]	Speed: 9.51 samples/sec	CrossEntropy=0.792995	SmoothL1=0.356515
+Epoch[16] Batch [80]	Speed: 9.50 samples/sec	CrossEntropy=0.789896	SmoothL1=0.344287
+Epoch[16] Batch [100]	Speed: 9.52 samples/sec	CrossEntropy=0.803366	SmoothL1=0.343573
+Epoch[16] Batch [120]	Speed: 9.47 samples/sec	CrossEntropy=0.804716	SmoothL1=0.369920
+Epoch[16] Batch [140]	Speed: 9.51 samples/sec	CrossEntropy=0.805554	SmoothL1=0.359045
+Epoch[16] Batch [160]	Speed: 9.45 samples/sec	CrossEntropy=0.808020	SmoothL1=0.362826
+Epoch[16] Batch [180]	Speed: 9.48 samples/sec	CrossEntropy=0.801725	SmoothL1=0.359947
+Epoch[16] Batch [200]	Speed: 9.50 samples/sec	CrossEntropy=0.763827	SmoothL1=0.353124
+Epoch[16] Batch [220]	Speed: 9.49 samples/sec	CrossEntropy=0.809776	SmoothL1=0.367377
+Epoch[16] Batch [240]	Speed: 9.47 samples/sec	CrossEntropy=0.791013	SmoothL1=0.334705
+Epoch[16] Batch [260]	Speed: 9.48 samples/sec	CrossEntropy=0.785425	SmoothL1=0.333349
+Epoch[16] Batch [280]	Speed: 9.49 samples/sec	CrossEntropy=0.806256	SmoothL1=0.349831
+Epoch[16] Batch [300]	Speed: 9.48 samples/sec	CrossEntropy=0.793334	SmoothL1=0.344788
+Epoch[16] Train-CrossEntropy=0.780086
+Epoch[16] Train-SmoothL1=0.357049
+Epoch[16] Time cost=529.141
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0017.params"
+Epoch[16] Validation-aeroplane=0.538342
+Epoch[16] Validation-bicycle=0.526165
+Epoch[16] Validation-bird=0.447017
+Epoch[16] Validation-boat=0.200828
+Epoch[16] Validation-bottle=0.194284
+Epoch[16] Validation-bus=0.410679
+Epoch[16] Validation-car=0.771440
+Epoch[16] Validation-cat=0.590000
+Epoch[16] Validation-chair=0.278457
+Epoch[16] Validation-cow=0.393447
+Epoch[16] Validation-diningtable=0.101067
+Epoch[16] Validation-dog=0.548477
+Epoch[16] Validation-horse=0.659155
+Epoch[16] Validation-motorbike=0.573787
+Epoch[16] Validation-person=0.655588
+Epoch[16] Validation-pottedplant=0.187687
+Epoch[16] Validation-sheep=0.331409
+Epoch[16] Validation-sofa=0.328004
+Epoch[16] Validation-train=0.424526
+Epoch[16] Validation-tvmonitor=0.544846
+Epoch[16] Validation-mAP=0.435260
+Epoch[17] Batch [20]	Speed: 9.43 samples/sec	CrossEntropy=0.793249	SmoothL1=0.359031
+Epoch[17] Batch [40]	Speed: 9.51 samples/sec	CrossEntropy=0.811013	SmoothL1=0.364859
+Epoch[17] Batch [60]	Speed: 9.48 samples/sec	CrossEntropy=0.793593	SmoothL1=0.345258
+Epoch[17] Batch [80]	Speed: 9.50 samples/sec	CrossEntropy=0.797350	SmoothL1=0.349084
+Epoch[17] Batch [100]	Speed: 9.50 samples/sec	CrossEntropy=0.798346	SmoothL1=0.360936
+Epoch[17] Batch [120]	Speed: 9.47 samples/sec	CrossEntropy=0.803768	SmoothL1=0.377193
+Epoch[17] Batch [140]	Speed: 9.50 samples/sec	CrossEntropy=0.777383	SmoothL1=0.352516
+Epoch[17] Batch [160]	Speed: 9.50 samples/sec	CrossEntropy=0.773466	SmoothL1=0.345381
+Epoch[17] Batch [180]	Speed: 9.50 samples/sec	CrossEntropy=0.809811	SmoothL1=0.354117
+Epoch[17] Batch [200]	Speed: 9.49 samples/sec	CrossEntropy=0.785027	SmoothL1=0.362748
+Epoch[17] Batch [220]	Speed: 9.52 samples/sec	CrossEntropy=0.801226	SmoothL1=0.389617
+Epoch[17] Batch [240]	Speed: 9.45 samples/sec	CrossEntropy=0.783683	SmoothL1=0.340094
+Epoch[17] Batch [260]	Speed: 9.53 samples/sec	CrossEntropy=0.782118	SmoothL1=0.329522
+Epoch[17] Batch [280]	Speed: 9.51 samples/sec	CrossEntropy=0.814705	SmoothL1=0.362872
+Epoch[17] Batch [300]	Speed: 9.48 samples/sec	CrossEntropy=0.779476	SmoothL1=0.345282
+Epoch[17] Train-CrossEntropy=0.777911
+Epoch[17] Train-SmoothL1=0.358959
+Epoch[17] Time cost=527.098
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0018.params"
+Epoch[17] Validation-aeroplane=0.505391
+Epoch[17] Validation-bicycle=0.574855
+Epoch[17] Validation-bird=0.451941
+Epoch[17] Validation-boat=0.170869
+Epoch[17] Validation-bottle=0.201515
+Epoch[17] Validation-bus=0.331005
+Epoch[17] Validation-car=0.743556
+Epoch[17] Validation-cat=0.649484
+Epoch[17] Validation-chair=0.294167
+Epoch[17] Validation-cow=0.411481
+Epoch[17] Validation-diningtable=0.169189
+Epoch[17] Validation-dog=0.568769
+Epoch[17] Validation-horse=0.593572
+Epoch[17] Validation-motorbike=0.571605
+Epoch[17] Validation-person=0.669516
+Epoch[17] Validation-pottedplant=0.232623
+Epoch[17] Validation-sheep=0.399941
+Epoch[17] Validation-sofa=0.291476
+Epoch[17] Validation-train=0.523697
+Epoch[17] Validation-tvmonitor=0.502487
+Epoch[17] Validation-mAP=0.442857
+Epoch[18] Batch [20]	Speed: 9.51 samples/sec	CrossEntropy=0.763304	SmoothL1=0.347593
+Epoch[18] Batch [40]	Speed: 9.50 samples/sec	CrossEntropy=0.772114	SmoothL1=0.347905
+Epoch[18] Batch [60]	Speed: 9.50 samples/sec	CrossEntropy=0.744420	SmoothL1=0.331715
+Epoch[18] Batch [80]	Speed: 9.52 samples/sec	CrossEntropy=0.788685	SmoothL1=0.348561
+Epoch[18] Batch [100]	Speed: 9.51 samples/sec	CrossEntropy=0.784391	SmoothL1=0.337691
+Epoch[18] Batch [120]	Speed: 9.50 samples/sec	CrossEntropy=0.786132	SmoothL1=0.354967
+Epoch[18] Batch [140]	Speed: 9.50 samples/sec	CrossEntropy=0.778498	SmoothL1=0.339347
+Epoch[18] Batch [160]	Speed: 9.51 samples/sec	CrossEntropy=0.791797	SmoothL1=0.337802
+Epoch[18] Batch [180]	Speed: 9.47 samples/sec	CrossEntropy=0.789097	SmoothL1=0.368328
+Epoch[18] Batch [200]	Speed: 9.49 samples/sec	CrossEntropy=0.764142	SmoothL1=0.346548
+Epoch[18] Batch [220]	Speed: 9.46 samples/sec	CrossEntropy=0.764688	SmoothL1=0.347149
+Epoch[18] Batch [240]	Speed: 9.47 samples/sec	CrossEntropy=0.758200	SmoothL1=0.339567
+Epoch[18] Batch [260]	Speed: 9.48 samples/sec	CrossEntropy=0.770253	SmoothL1=0.333209
+Epoch[18] Batch [280]	Speed: 9.50 samples/sec	CrossEntropy=0.778877	SmoothL1=0.337414
+Epoch[18] Batch [300]	Speed: 9.45 samples/sec	CrossEntropy=0.766534	SmoothL1=0.339892
+Epoch[18] Train-CrossEntropy=0.777861
+Epoch[18] Train-SmoothL1=0.353405
+Epoch[18] Time cost=526.955
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0019.params"
+Epoch[18] Validation-aeroplane=0.580005
+Epoch[18] Validation-bicycle=0.561701
+Epoch[18] Validation-bird=0.476687
+Epoch[18] Validation-boat=0.236282
+Epoch[18] Validation-bottle=0.225457
+Epoch[18] Validation-bus=0.298011
+Epoch[18] Validation-car=0.756768
+Epoch[18] Validation-cat=0.648027
+Epoch[18] Validation-chair=0.362610
+Epoch[18] Validation-cow=0.472574
+Epoch[18] Validation-diningtable=0.238593
+Epoch[18] Validation-dog=0.598380
+Epoch[18] Validation-horse=0.656698
+Epoch[18] Validation-motorbike=0.601565
+Epoch[18] Validation-person=0.669439
+Epoch[18] Validation-pottedplant=0.222093
+Epoch[18] Validation-sheep=0.470914
+Epoch[18] Validation-sofa=0.363988
+Epoch[18] Validation-train=0.520108
+Epoch[18] Validation-tvmonitor=0.520964
+Epoch[18] Validation-mAP=0.474043
+Epoch[19] Batch [20]	Speed: 9.47 samples/sec	CrossEntropy=0.747896	SmoothL1=0.333730
+Epoch[19] Batch [40]	Speed: 9.47 samples/sec	CrossEntropy=0.758000	SmoothL1=0.341652
+Epoch[19] Batch [60]	Speed: 9.50 samples/sec	CrossEntropy=0.764412	SmoothL1=0.317271
+Epoch[19] Batch [80]	Speed: 9.49 samples/sec	CrossEntropy=0.755910	SmoothL1=0.328774
+Epoch[19] Batch [100]	Speed: 9.49 samples/sec	CrossEntropy=0.759737	SmoothL1=0.328402
+Epoch[19] Batch [120]	Speed: 9.49 samples/sec	CrossEntropy=0.777182	SmoothL1=0.356575
+Epoch[19] Batch [140]	Speed: 9.48 samples/sec	CrossEntropy=0.737927	SmoothL1=0.347314
+Epoch[19] Batch [160]	Speed: 9.46 samples/sec	CrossEntropy=0.791285	SmoothL1=0.363922
+Epoch[19] Batch [180]	Speed: 9.47 samples/sec	CrossEntropy=0.761198	SmoothL1=0.356758
+Epoch[19] Batch [200]	Speed: 9.54 samples/sec	CrossEntropy=0.746649	SmoothL1=0.341817
+Epoch[19] Batch [220]	Speed: 9.58 samples/sec	CrossEntropy=0.766925	SmoothL1=0.365648
+Epoch[19] Batch [240]	Speed: 9.62 samples/sec	CrossEntropy=0.779959	SmoothL1=0.343387
+Epoch[19] Batch [260]	Speed: 9.59 samples/sec	CrossEntropy=0.751960	SmoothL1=0.333811
+Epoch[19] Batch [280]	Speed: 9.61 samples/sec	CrossEntropy=0.774843	SmoothL1=0.340215
+Epoch[19] Batch [300]	Speed: 9.61 samples/sec	CrossEntropy=0.740502	SmoothL1=0.324007
+Epoch[19] Train-CrossEntropy=0.752930
+Epoch[19] Train-SmoothL1=0.352782
+Epoch[19] Time cost=524.839
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0020.params"
+Epoch[19] Validation-aeroplane=0.599771
+Epoch[19] Validation-bicycle=0.562752
+Epoch[19] Validation-bird=0.485677
+Epoch[19] Validation-boat=0.267373
+Epoch[19] Validation-bottle=0.210359
+Epoch[19] Validation-bus=0.381817
+Epoch[19] Validation-car=0.778136
+Epoch[19] Validation-cat=0.601665
+Epoch[19] Validation-chair=0.281848
+Epoch[19] Validation-cow=0.416556
+Epoch[19] Validation-diningtable=0.255407
+Epoch[19] Validation-dog=0.535610
+Epoch[19] Validation-horse=0.655334
+Epoch[19] Validation-motorbike=0.590160
+Epoch[19] Validation-person=0.684722
+Epoch[19] Validation-pottedplant=0.266995
+Epoch[19] Validation-sheep=0.449902
+Epoch[19] Validation-sofa=0.355345
+Epoch[19] Validation-train=0.568864
+Epoch[19] Validation-tvmonitor=0.574861
+Epoch[19] Validation-mAP=0.476158
+Epoch[20] Batch [20]	Speed: 9.64 samples/sec	CrossEntropy=0.755837	SmoothL1=0.341126
+Epoch[20] Batch [40]	Speed: 9.65 samples/sec	CrossEntropy=0.764590	SmoothL1=0.350803
+Epoch[20] Batch [60]	Speed: 9.64 samples/sec	CrossEntropy=0.757341	SmoothL1=0.326160
+Epoch[20] Batch [80]	Speed: 9.69 samples/sec	CrossEntropy=0.757053	SmoothL1=0.330155
+Epoch[20] Batch [100]	Speed: 9.69 samples/sec	CrossEntropy=0.761576	SmoothL1=0.349421
+Epoch[20] Batch [120]	Speed: 9.67 samples/sec	CrossEntropy=0.743555	SmoothL1=0.356503
+Epoch[20] Batch [140]	Speed: 9.67 samples/sec	CrossEntropy=0.756817	SmoothL1=0.340171
+Epoch[20] Batch [160]	Speed: 9.71 samples/sec	CrossEntropy=0.754550	SmoothL1=0.347917
+Epoch[20] Batch [180]	Speed: 9.67 samples/sec	CrossEntropy=0.751640	SmoothL1=0.334274
+Epoch[20] Batch [200]	Speed: 9.65 samples/sec	CrossEntropy=0.745431	SmoothL1=0.344859
+Epoch[20] Batch [220]	Speed: 9.65 samples/sec	CrossEntropy=0.749858	SmoothL1=0.332422
+Epoch[20] Batch [240]	Speed: 9.68 samples/sec	CrossEntropy=0.761016	SmoothL1=0.334122
+Epoch[20] Batch [260]	Speed: 9.70 samples/sec	CrossEntropy=0.734039	SmoothL1=0.327751
+Epoch[20] Batch [280]	Speed: 9.70 samples/sec	CrossEntropy=0.731556	SmoothL1=0.320762
+Epoch[20] Batch [300]	Speed: 9.69 samples/sec	CrossEntropy=0.731196	SmoothL1=0.313031
+Epoch[20] Train-CrossEntropy=0.747592
+Epoch[20] Train-SmoothL1=0.352432
+Epoch[20] Time cost=516.816
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0021.params"
+Epoch[20] Validation-aeroplane=0.598863
+Epoch[20] Validation-bicycle=0.653458
+Epoch[20] Validation-bird=0.479014
+Epoch[20] Validation-boat=0.269920
+Epoch[20] Validation-bottle=0.279493
+Epoch[20] Validation-bus=0.513222
+Epoch[20] Validation-car=0.781570
+Epoch[20] Validation-cat=0.657312
+Epoch[20] Validation-chair=0.358074
+Epoch[20] Validation-cow=0.540841
+Epoch[20] Validation-diningtable=0.270823
+Epoch[20] Validation-dog=0.637959
+Epoch[20] Validation-horse=0.666538
+Epoch[20] Validation-motorbike=0.636663
+Epoch[20] Validation-person=0.674450
+Epoch[20] Validation-pottedplant=0.249928
+Epoch[20] Validation-sheep=0.515024
+Epoch[20] Validation-sofa=0.401261
+Epoch[20] Validation-train=0.554589
+Epoch[20] Validation-tvmonitor=0.546382
+Epoch[20] Validation-mAP=0.514269
+Epoch[21] Batch [20]	Speed: 9.68 samples/sec	CrossEntropy=0.731209	SmoothL1=0.318103
+Epoch[21] Batch [40]	Speed: 9.72 samples/sec	CrossEntropy=0.751902	SmoothL1=0.347032
+Epoch[21] Batch [60]	Speed: 9.74 samples/sec	CrossEntropy=0.764109	SmoothL1=0.320642
+Epoch[21] Batch [80]	Speed: 9.73 samples/sec	CrossEntropy=0.747897	SmoothL1=0.321901
+Epoch[21] Batch [100]	Speed: 9.71 samples/sec	CrossEntropy=0.762830	SmoothL1=0.334968
+Epoch[21] Batch [120]	Speed: 9.71 samples/sec	CrossEntropy=0.769152	SmoothL1=0.341005
+Epoch[21] Batch [140]	Speed: 9.72 samples/sec	CrossEntropy=0.760786	SmoothL1=0.349739
+Epoch[21] Batch [160]	Speed: 9.76 samples/sec	CrossEntropy=0.742151	SmoothL1=0.339678
+Epoch[21] Batch [180]	Speed: 9.68 samples/sec	CrossEntropy=0.766751	SmoothL1=0.342747
+Epoch[21] Batch [200]	Speed: 9.68 samples/sec	CrossEntropy=0.741884	SmoothL1=0.342897
+Epoch[21] Batch [220]	Speed: 9.68 samples/sec	CrossEntropy=0.742967	SmoothL1=0.342417
+Epoch[21] Batch [240]	Speed: 9.69 samples/sec	CrossEntropy=0.736445	SmoothL1=0.330130
+Epoch[21] Batch [260]	Speed: 9.67 samples/sec	CrossEntropy=0.729950	SmoothL1=0.318883
+Epoch[21] Batch [280]	Speed: 9.67 samples/sec	CrossEntropy=0.754427	SmoothL1=0.339290
+Epoch[21] Batch [300]	Speed: 9.68 samples/sec	CrossEntropy=0.729052	SmoothL1=0.322155
+Epoch[21] Train-CrossEntropy=0.753404
+Epoch[21] Train-SmoothL1=0.353738
+Epoch[21] Time cost=517.124
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0022.params"
+Epoch[21] Validation-aeroplane=0.583020
+Epoch[21] Validation-bicycle=0.609439
+Epoch[21] Validation-bird=0.465185
+Epoch[21] Validation-boat=0.208848
+Epoch[21] Validation-bottle=0.213107
+Epoch[21] Validation-bus=0.543581
+Epoch[21] Validation-car=0.773060
+Epoch[21] Validation-cat=0.694281
+Epoch[21] Validation-chair=0.324681
+Epoch[21] Validation-cow=0.465852
+Epoch[21] Validation-diningtable=0.283889
+Epoch[21] Validation-dog=0.690383
+Epoch[21] Validation-horse=0.657725
+Epoch[21] Validation-motorbike=0.596051
+Epoch[21] Validation-person=0.689337
+Epoch[21] Validation-pottedplant=0.232085
+Epoch[21] Validation-sheep=0.430160
+Epoch[21] Validation-sofa=0.430365
+Epoch[21] Validation-train=0.617557
+Epoch[21] Validation-tvmonitor=0.605892
+Epoch[21] Validation-mAP=0.505725
+Epoch[22] Batch [20]	Speed: 9.63 samples/sec	CrossEntropy=0.739068	SmoothL1=0.336424
+Epoch[22] Batch [40]	Speed: 9.63 samples/sec	CrossEntropy=0.752983	SmoothL1=0.373099
+Epoch[22] Batch [60]	Speed: 9.63 samples/sec	CrossEntropy=0.726825	SmoothL1=0.323356
+Epoch[22] Batch [80]	Speed: 9.68 samples/sec	CrossEntropy=0.727515	SmoothL1=0.339680
+Epoch[22] Batch [100]	Speed: 9.63 samples/sec	CrossEntropy=0.743187	SmoothL1=0.319010
+Epoch[22] Batch [120]	Speed: 9.59 samples/sec	CrossEntropy=0.747336	SmoothL1=0.346879
+Epoch[22] Batch [140]	Speed: 9.66 samples/sec	CrossEntropy=0.763556	SmoothL1=0.345310
+Epoch[22] Batch [160]	Speed: 9.63 samples/sec	CrossEntropy=0.769557	SmoothL1=0.333332
+Epoch[22] Batch [180]	Speed: 9.58 samples/sec	CrossEntropy=0.748185	SmoothL1=0.336481
+Epoch[22] Batch [200]	Speed: 9.59 samples/sec	CrossEntropy=0.728753	SmoothL1=0.322573
+Epoch[22] Batch [220]	Speed: 9.62 samples/sec	CrossEntropy=0.755902	SmoothL1=0.355656
+Epoch[22] Batch [240]	Speed: 9.65 samples/sec	CrossEntropy=0.724256	SmoothL1=0.309794
+Epoch[22] Batch [260]	Speed: 9.66 samples/sec	CrossEntropy=0.716164	SmoothL1=0.313628
+Epoch[22] Batch [280]	Speed: 9.63 samples/sec	CrossEntropy=0.737890	SmoothL1=0.339112
+Epoch[22] Batch [300]	Speed: 9.64 samples/sec	CrossEntropy=0.715656	SmoothL1=0.324858
+Epoch[22] Train-CrossEntropy=0.740057
+Epoch[22] Train-SmoothL1=0.344145
+Epoch[22] Time cost=519.242
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0023.params"
+Epoch[22] Validation-aeroplane=0.532571
+Epoch[22] Validation-bicycle=0.667846
+Epoch[22] Validation-bird=0.516007
+Epoch[22] Validation-boat=0.244585
+Epoch[22] Validation-bottle=0.259474
+Epoch[22] Validation-bus=0.434533
+Epoch[22] Validation-car=0.765639
+Epoch[22] Validation-cat=0.652105
+Epoch[22] Validation-chair=0.306129
+Epoch[22] Validation-cow=0.506295
+Epoch[22] Validation-diningtable=0.213593
+Epoch[22] Validation-dog=0.617580
+Epoch[22] Validation-horse=0.606990
+Epoch[22] Validation-motorbike=0.604476
+Epoch[22] Validation-person=0.694511
+Epoch[22] Validation-pottedplant=0.244373
+Epoch[22] Validation-sheep=0.500316
+Epoch[22] Validation-sofa=0.410533
+Epoch[22] Validation-train=0.533420
+Epoch[22] Validation-tvmonitor=0.567228
+Epoch[22] Validation-mAP=0.493910
+Epoch[23] Batch [20]	Speed: 9.66 samples/sec	CrossEntropy=0.715944	SmoothL1=0.311834
+Epoch[23] Batch [40]	Speed: 9.61 samples/sec	CrossEntropy=0.737908	SmoothL1=0.343821
+Epoch[23] Batch [60]	Speed: 9.64 samples/sec	CrossEntropy=0.742509	SmoothL1=0.307219
+Epoch[23] Batch [80]	Speed: 9.62 samples/sec	CrossEntropy=0.740034	SmoothL1=0.324980
+Epoch[23] Batch [100]	Speed: 9.62 samples/sec	CrossEntropy=0.735305	SmoothL1=0.323629
+Epoch[23] Batch [120]	Speed: 9.63 samples/sec	CrossEntropy=0.732015	SmoothL1=0.336023
+Epoch[23] Batch [140]	Speed: 9.66 samples/sec	CrossEntropy=0.732781	SmoothL1=0.339868
+Epoch[23] Batch [160]	Speed: 9.63 samples/sec	CrossEntropy=0.737139	SmoothL1=0.343006
+Epoch[23] Batch [180]	Speed: 9.62 samples/sec	CrossEntropy=0.753021	SmoothL1=0.345096
+Epoch[23] Batch [200]	Speed: 9.59 samples/sec	CrossEntropy=0.719945	SmoothL1=0.335605
+Epoch[23] Batch [220]	Speed: 9.58 samples/sec	CrossEntropy=0.742653	SmoothL1=0.353529
+Epoch[23] Batch [240]	Speed: 9.57 samples/sec	CrossEntropy=0.697369	SmoothL1=0.314463
+Epoch[23] Batch [260]	Speed: 9.63 samples/sec	CrossEntropy=0.698702	SmoothL1=0.303227
+Epoch[23] Batch [280]	Speed: 9.62 samples/sec	CrossEntropy=0.721907	SmoothL1=0.312915
+Epoch[23] Batch [300]	Speed: 9.64 samples/sec	CrossEntropy=0.711955	SmoothL1=0.331033
+Epoch[23] Train-CrossEntropy=0.735621
+Epoch[23] Train-SmoothL1=0.347839
+Epoch[23] Time cost=519.850
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0024.params"
+Epoch[23] Validation-aeroplane=0.570944
+Epoch[23] Validation-bicycle=0.619117
+Epoch[23] Validation-bird=0.514724
+Epoch[23] Validation-boat=0.259449
+Epoch[23] Validation-bottle=0.240186
+Epoch[23] Validation-bus=0.445709
+Epoch[23] Validation-car=0.795771
+Epoch[23] Validation-cat=0.693226
+Epoch[23] Validation-chair=0.320740
+Epoch[23] Validation-cow=0.567370
+Epoch[23] Validation-diningtable=0.305764
+Epoch[23] Validation-dog=0.657862
+Epoch[23] Validation-horse=0.635028
+Epoch[23] Validation-motorbike=0.633640
+Epoch[23] Validation-person=0.689112
+Epoch[23] Validation-pottedplant=0.256093
+Epoch[23] Validation-sheep=0.523434
+Epoch[23] Validation-sofa=0.444188
+Epoch[23] Validation-train=0.550877
+Epoch[23] Validation-tvmonitor=0.587857
+Epoch[23] Validation-mAP=0.515555
+Epoch[24] Batch [20]	Speed: 9.57 samples/sec	CrossEntropy=0.720854	SmoothL1=0.327143
+Epoch[24] Batch [40]	Speed: 9.58 samples/sec	CrossEntropy=0.714892	SmoothL1=0.347929
+Epoch[24] Batch [60]	Speed: 9.59 samples/sec	CrossEntropy=0.710014	SmoothL1=0.320794
+Epoch[24] Batch [80]	Speed: 9.64 samples/sec	CrossEntropy=0.725348	SmoothL1=0.315378
+Epoch[24] Batch [100]	Speed: 9.65 samples/sec	CrossEntropy=0.755805	SmoothL1=0.334190
+Epoch[24] Batch [120]	Speed: 9.61 samples/sec	CrossEntropy=0.716741	SmoothL1=0.328542
+Epoch[24] Batch [140]	Speed: 9.56 samples/sec	CrossEntropy=0.750553	SmoothL1=0.341000
+Epoch[24] Batch [160]	Speed: 9.62 samples/sec	CrossEntropy=0.748692	SmoothL1=0.342327
+Epoch[24] Batch [180]	Speed: 9.64 samples/sec	CrossEntropy=0.722863	SmoothL1=0.325991
+Epoch[24] Batch [200]	Speed: 9.60 samples/sec	CrossEntropy=0.725665	SmoothL1=0.334312
+Epoch[24] Batch [220]	Speed: 9.59 samples/sec	CrossEntropy=0.735675	SmoothL1=0.342117
+Epoch[24] Batch [240]	Speed: 9.58 samples/sec	CrossEntropy=0.700228	SmoothL1=0.313290
+Epoch[24] Batch [260]	Speed: 9.63 samples/sec	CrossEntropy=0.712714	SmoothL1=0.312615
+Epoch[24] Batch [280]	Speed: 9.65 samples/sec	CrossEntropy=0.710265	SmoothL1=0.313477
+Epoch[24] Batch [300]	Speed: 9.61 samples/sec	CrossEntropy=0.699144	SmoothL1=0.302675
+Epoch[24] Train-CrossEntropy=0.736302
+Epoch[24] Train-SmoothL1=0.321539
+Epoch[24] Time cost=520.451
+Saved checkpoint to "/home/wk/wk_ws/myTest/myRethinkOB/model/ssd_vgg16_reduced_512-0025.params"
+Epoch[24] Validation-aeroplane=0.626665
+Epoch[24] Validation-bicycle=0.660083
+Epoch[24] Validation-bird=0.593140
+Epoch[24] Validation-boat=0.301114
+Epoch[24] Validation-bottle=0.269362
+Epoch[24] Validation-bus=0.500469
+Epoch[24] Validation-car=0.787113
+Epoch[24] Validation-cat=0.697386
+Epoch[24] Validation-chair=0.361124
+Epoch[24] Validation-cow=0.506384
+Epoch[24] Validation-diningtable=0.351805
+Epoch[24] Validation-dog=0.715937
+Epoch[24] Validation-horse=0.637015
+Epoch[24] Validation-motorbike=0.635978
+Epoch[24] Validation-person=0.672882
+Epoch[24] Validation-pottedplant=0.257672
+Epoch[24] Validation-sheep=0.475825
+Epoch[24] Validation-sofa=0.405201
+Epoch[24] Validation-train=0.613692
+Epoch[24] Validation-tvmonitor=0.619633
+Epoch[24] Validation-mAP=0.534424
+Epoch[25] Batch [20]	Speed: 9.63 samples/sec	CrossEntropy=0.728658	SmoothL1=0.326844
+Epoch[25] Batch [40]	Speed: 9.67 samples/sec	CrossEntropy=0.727479	SmoothL1=0.337527
+Epoch[25] Batch [60]	Speed: 9.63 samples/sec	CrossEntropy=0.721024	SmoothL1=0.317529
+Epoch[25] Batch [80]	Speed: 9.62 samples/sec	CrossEntropy=0.720475	SmoothL1=0.310035
